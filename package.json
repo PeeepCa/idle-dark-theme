@@ -1,0 +1,21 @@
+{
+  "name": "idle-dark-theme",
+  "displayName": "idle-dark-theme",
+  "description": "Python idle dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Idle dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Idle dark theme-color-theme.json"
+      }
+    ]
+  }
+}
