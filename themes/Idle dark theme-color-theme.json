@@ -89,7 +89,8 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"constant.language.python"
 			],
 			"settings": {
 				"foreground": "#ff8000"
