@@ -59,6 +59,15 @@
 			}
 		},
 		{
+			"name": "Keyword in/not in",
+			"scope": [
+				"keyword.operator.logical.python"
+			],
+			"settings": {
+				"foreground": "#ff8000"
+			}
+		},
+		{
 			"name": "Storage",
 			"scope": [
 				"storage.type",
